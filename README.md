@@ -1,2 +1,2 @@
-# Newton-ji-ka-avishkar
-Newtons Cradle
+#Newton's Cradle
+Newton's Cradle
